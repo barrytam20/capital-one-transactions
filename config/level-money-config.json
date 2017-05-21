@@ -1,0 +1,18 @@
+{
+	"args":{
+		"uid": 1110590645,
+		"token": "D5D98CAE13A75965E0E2EFD09A3A643B",
+		"api-token": "AppTokenForInterview",
+		"json-strict-mode": false,
+		"json-verbose-response": false
+	},
+	"hostname": "https://2016.api.levelmoney.com/",
+	"paths": {
+		"getAll": "api/v2/core/get-all-transactions",
+		"projected": "api/v2/core/projected-transactions-for-month"
+	},
+	"donutMerchants": [
+		"Krispy Kreme Donuts",
+		"DUNKIN #336784"
+	]
+}
