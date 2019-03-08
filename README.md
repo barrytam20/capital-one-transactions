@@ -1,4 +1,4 @@
-# Capital One Transactions Reporter
+# Sharebuilder Transactions Reporter
 
 ## Requirements
 This application requires npm and node to be installed on your machine to run
